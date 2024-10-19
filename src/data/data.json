@@ -1,0 +1,30 @@
+[
+  {
+    "label": "MON",
+    "value": 13000
+  },
+  {
+    "label": "TUE",
+    "value": 18000
+  },
+  {
+    "label": "WED",
+    "value": 10000
+  },
+  {
+    "label": "THU",
+    "value": 12000
+  },
+  {
+    "label": "FRI",
+    "value": 17000
+  },
+  {
+    "label": "SAT",
+    "value": 19000
+  },
+  {
+    "label": "SUN",
+    "value": 16000
+  }
+]
